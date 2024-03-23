@@ -1,1 +1,1 @@
-# habr_menu_oxt
+# Образец расширения для LibreOffice
